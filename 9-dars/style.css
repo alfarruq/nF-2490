@@ -1,0 +1,28 @@
+table {
+  border-collapse: collapse;
+}
+caption {
+  background-color: aqua;
+}
+
+td {
+  border: 1px solid black;
+  width: 200px;
+  text-align: center;
+  height: 30px;
+}
+
+.red {
+  background-color: red;
+  color: white;
+}
+
+.blue {
+  background-color: blue;
+  color: white;
+}
+
+.sarvar {
+  background-color: black;
+  color: gold;
+}
